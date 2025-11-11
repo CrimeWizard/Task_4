@@ -66,7 +66,7 @@ describe('Authentication controller integration', () => {
 
   /*
   TODO: test login behaviour
-  - attempt login request with user credentiials
+  - attempt login request with user credentials
   - expect a 200 response
   - expect a JWT token in the response
   - expect the returned user profile to match the registered user
